@@ -30,7 +30,7 @@ welcome  to my page！
  Maybe some day,some one visit here, just say: Hi,there ,welecome here!
 
 - 📫 How to reach me:
-- [MyGitBlog](https://github.com/myogg/GitBlog)
+- [MyGitBlog](https://134688.xyz)
 
 
 🌱 欢迎来到我的Github，但我不确定该用什么来准确的描述我:)
@@ -40,4 +40,4 @@ welcome  to my page！
 
 
 📫 更多更新在我的博客:
-- [MyGitBlog](https://github.com/myogg/GitBlog)
+- [MyGitBlog](https://134688.xyz)
